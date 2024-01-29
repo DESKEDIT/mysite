@@ -32,21 +32,20 @@ body {
     font-family: "Merriweather", serif;
     font-weight: bolder;
     font-size: x-large;
+}
+.whitesmoke {
     color: whitesmoke;
 }
-#logo {
-    font-family: "Merriweather", serif;
-    font-weight: bolder;
-    font-size: x-large;
-    color: whitesmoke;
+.center {
+    text-align: center;
 }
-
 .nav {
     display: list-item;
     font-family: "Times New Roman", serif;
     font-size: x-large;
     background-color: #BC8796 ;
     text-decoration: none;
+    text-align: center;
 } 
     a:link { 
     text-decoration: none; 
@@ -64,6 +63,7 @@ body {
   }
 #navusing {
     font-weight: bold;
+    
 }
 .title {
     font-family: "Single Day", sans-serif;
@@ -87,4 +87,22 @@ body {
     font-family: "Times New Roman", Times, serif;
     font-size: larger;
     color: black;
+}
+.section-style1 {
+    background-color: wheat;
+}
+.logo.large {
+    font-size: 400%;
+}
+.middle {
+    text-align: center;
+}
+#logo#large {
+    font-size: 400%;
+}
+.purple {
+    color: blueviolet;
+}
+.legal {
+    font-family: serif;
 }
