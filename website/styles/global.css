@@ -1,0 +1,90 @@
+/*
+    font-family: "Open Sans", sans-serif;
+    font-family: "Merriweather", serif;
+    font-family: "Times New Roman", serif;
+    font-family: "Single Day", sans-serif;
+    font-family: "Merienda One", cursive;
+    Black: #000
+    Mauve: #BC8796
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    color: #000;
+    background-color: white;
+}
+.spacer.v80 {
+    height: 80px;
+}
+.spacer.v60 {
+    height: 60px;
+}
+.spacer.v40 {
+    height: 40px;
+}
+.spacer.v20 {
+    height: 20px;
+}
+.logo {
+    font-family: "Merriweather", serif;
+    font-weight: bolder;
+    font-size: x-large;
+    color: whitesmoke;
+}
+#logo {
+    font-family: "Merriweather", serif;
+    font-weight: bolder;
+    font-size: x-large;
+    color: whitesmoke;
+}
+
+.nav {
+    display: list-item;
+    font-family: "Times New Roman", serif;
+    font-size: x-large;
+    background-color: #BC8796 ;
+    text-decoration: none;
+} 
+    a:link { 
+    text-decoration: none; 
+  } 
+    a:visited { 
+    text-decoration: none; 
+  } 
+    a:hover { 
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+  } 
+    a:active { 
+    text-decoration: none; 
+  }
+#navusing {
+    font-weight: bold;
+}
+.title {
+    font-family: "Single Day", sans-serif;
+    font-size: 48px;
+    font-weight: 200;
+}
+.subtitle {
+    font-family: "Merienda One", cursive;
+    font-size: 24px;
+    font-weight: 175;
+}
+.appsection {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    color: #000;
+    background-color: whitesmoke;
+}
+.sectionLink {
+    font-family: "Times New Roman", Times, serif;
+    font-size: larger;
+    color: black;
+}
